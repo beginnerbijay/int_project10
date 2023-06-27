@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.navbar .navbar-toggler{
+  margin: 4px 0;
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+}
+
+.nav-item .btn:hover{
+    color: blue;
+}
+
+.table{
+  width: 60vw;
+}
+
+.form{
+  width: 60vw;
+}
